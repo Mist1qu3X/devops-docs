@@ -10,3 +10,4 @@ nav:
   - Главная: index.md
   - Эксплуатация: runbook.md
   - Журнал инцидентов: incidents.md
+  - Восстановление: recovery.md
