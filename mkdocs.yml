@@ -1,0 +1,12 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Руслан Турдахунов"
+repo_name: Mist1qu3X/devops-docs
+repo_url: https://github.com/Mist1qu3X/devops-docs
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
