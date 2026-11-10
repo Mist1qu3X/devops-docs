@@ -26,4 +26,4 @@ jobs:
       - name: Static analysis
         run: python -m pylint src/status.py --score=no
       - name: Build documentation
-        run: python -m mkdocs build --strict
+        run: mkdocs build --strict --site-dir /tmp/docs-site
